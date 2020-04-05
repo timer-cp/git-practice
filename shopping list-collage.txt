@@ -4,3 +4,8 @@ bbb
 aaa
 ccc
 ddd
+aaa
+book1
+book2
+before amend
+after amend
