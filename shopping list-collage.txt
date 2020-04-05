@@ -1,5 +1,11 @@
 中国人
 日本人
+<<<<<<< HEAD
 bbb
 aaa
 ccc
+=======
+aaa
+book1
+book2
+>>>>>>> books
